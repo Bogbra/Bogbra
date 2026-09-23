@@ -7,10 +7,10 @@ Over the last two years, I independently implemented and maintained more than 30
 I work with React, Next.js and TypeScript, with particular attention to interaction, accessibility and performance. I also build AI applications using RAG and MCP.
 
 **Selected work**
-- **Sofia's Visual Archive** — Client photography portfolio with an interactive 3D gallery, keyboard navigation and a WebGL fallback.
-- **E63 Recordings** — Bilingual client website combining editorial design, scroll animations and automated CI checks.
-- **Glyph Lab** — Personal motion typography tool with real-time effects and browser-based PNG and GIF export.
-- **AI Systems Showcase** — Personal full-stack project exploring RAG, streaming interfaces and MCP integrations.
+- **[Sofia's Visual Archive](https://sofias-visual-archive.vercel.app/)** — Client photography portfolio with an interactive 3D gallery, keyboard navigation and a WebGL fallback.
+- **[E63 Recordings](https://e63recordings.vercel.app/)** — Bilingual client website combining editorial design, scroll animations and automated CI checks.
+- **[Glyph Lab](https://glyph-lab-demo.vercel.app/)** — Personal motion typography tool with real-time effects and browser-based PNG and GIF export.
+- **[AI Systems Showcase](https://ai-systems-showcase.vercel.app/)** — Personal full-stack project exploring RAG, streaming interfaces and MCP integrations.
 
 **How I work**
 
