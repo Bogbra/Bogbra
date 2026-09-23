@@ -1,21 +1,13 @@
-### Hi, I'm Dana
+### Dana Schmitt
 
-I'm a frontend developer with a background in art and design and experience in agency and e-commerce projects.
+Frontend developer with a background in art & design.
 
-Over the last two years, I independently implemented and maintained more than 30 client projects, mostly new builds. For my own client projects, I handle design, architecture, development, deployment and ongoing maintenance.
-
-I work with React, Next.js and TypeScript, with particular attention to interaction, accessibility and performance. I also build AI applications using RAG and MCP.
+I design, build and maintain websites for real clients — working with React, Next.js and TypeScript, and paying close attention to motion, accessibility and performance. I also explore AI through hands-on projects with RAG and MCP.
 
 **Selected work**
-- **[Sofia's Visual Archive](https://sofias-visual-archive.vercel.app/)** — Client photography portfolio with an interactive 3D gallery, keyboard navigation and a WebGL fallback.
-- **[E63 Recordings](https://e63recordings.vercel.app/)** — Bilingual client website combining editorial design, scroll animations and automated CI checks.
-- **[Glyph Lab](https://glyph-lab-demo.vercel.app/)** — Personal motion typography tool with real-time effects and browser-based PNG and GIF export.
-- **[AI Systems Showcase](https://ai-systems-showcase.vercel.app/)** — Personal full-stack project exploring RAG, streaming interfaces and MCP integrations.
+- **[Sofia's Visual Archive](https://sofias-visual-archive.vercel.app/)** — Photography portfolio with an interactive 3D gallery.
+- **[E63 Recordings](https://e63recordings.vercel.app/)** — Bilingual music label website with editorial design and motion.
+- **[Glyph Lab](https://glyph-lab-demo.vercel.app/)** — Motion typography studio with image and GIF export.
+- **[AI Systems Showcase](https://ai-systems-showcase.vercel.app/)** — Interactive AI workflows, RAG and MCP.
 
-**How I work**
-
-I enjoy working closely with clients and designers, understanding the problem behind a request and taking responsibility beyond deployment. I ask questions, share what I learn and keep working through problems when the first solution falls short.
-
-Based in Aschaffenburg, Germany.
-
-**[Get in touch →](mailto:dana-schmitt@outlook.de)**
+Aschaffenburg, Germany · [Get in touch](mailto:dana-schmitt@outlook.de)
